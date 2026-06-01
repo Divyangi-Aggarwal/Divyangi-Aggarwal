@@ -1,6 +1,6 @@
-## Hi, I am Manas! Great to see you here!👋
+## Hi, I am Divyangi Aggarwal! Great to see you here!👋
 
-I am Manas Miglani, currently learning full stack devlopment. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Divyangi Aggarwal, currently learning full stack devlopment. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divyangiaggarwal@gmail.com)](mailto:divyangiaggarwal@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divyangiaggarwal/)](https://www.linkedin.com/in/divyangiaggarwal/)
