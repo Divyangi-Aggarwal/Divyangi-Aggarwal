@@ -6,7 +6,7 @@ I am Divyangi Aggarwal, currently learning full stack devlopment. I am a tech en
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divyangiaggarwal/)](https://www.linkedin.com/in/divyangiaggarwal/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@divyangiaggarwal)](https://medium.com/@divyangiaggarwal)
 
-[![Manas's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Divyangi-Aggarwal&theme=xcode)](https://github.com/Divyangi-Aggarwal)
+[![Divyangi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Divyangi-Aggarwal&theme=xcode)](https://github.com/Divyangi-Aggarwal)
 
 ## 👨🏻‍💻 Coding Profiles
 
