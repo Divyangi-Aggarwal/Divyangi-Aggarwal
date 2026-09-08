@@ -1,6 +1,43 @@
 ## Hi, I am Divyangi Aggarwal! Great to see you here!👋
+**Python Backend Engineer**
 
-I am Divyangi Aggarwal, currently learning full stack devlopment. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I build production backend systems, REST APIs, data-processing pipelines, and automation services using Python.
+
+**🛠️ Tech Stack**
+**Languages:** Python, Node.js
+**Backend:** FastAPI, Django, Django REST Framework, Flask
+**Databases:** PostgreSQL, MySQL, MongoDB, SQLAlchemy
+**Async & Messaging:** Celery, Redis, RabbitMQ, Async Python
+**Cloud & DevOps:** AWS, Docker, S3, Lambda, EC2
+**APIs & Security:** REST APIs, JWT, STIX, TAXII
+**Testing & Tools: **pytest, Git, GitHub, Postman
+
+**💻 What I Work On**
+• Backend APIs and microservices
+• Data ingestion and processing pipelines
+• Database-driven applications
+• Background jobs and task scheduling
+• AWS-based backend workflows
+• Automation and production engineering
+• Open-source contributions
+
+**🚀 Current Focus**
+
+I'm currently focused on:
+• Building production-quality Python backend projects
+• Contributing to open-source Python projects
+• Solving real backend engineering issues
+• Growing my experience with FastAPI, PostgreSQL, Celery, AWS and Docker
+
+**🤝 Open to**
+• Python Backend Engineering opportunities
+• Open-source collaboration
+• Backend/API projects
+• Interesting Python engineering problems
+
+
+
+Find out more about me & feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:divyangiaggarwal@gmail.com)](mailto:divyangiaggarwal@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divyangiaggarwal/)](https://www.linkedin.com/in/divyangiaggarwal/)
